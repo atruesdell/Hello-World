@@ -25,4 +25,4 @@ Attached is a file provided by my instructor.
 None
 
 ## Versioning
-This project is always improving, hopefully :).
+This project is always improving -- hopefully :)
