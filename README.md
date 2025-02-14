@@ -12,17 +12,17 @@ My first repository
 ## Project Title
 *Hello World*
 
-### Description
+## Description
 This project is used to help me learn how to navigate Github and all that it offers.
 
-#### How to Run Program
+## How to Run Program
 Test description
 
-##### Files Used
+## Files Used
 Attached is a file provided by my instructor.
 
-###### Additional Documentation
+## Additional Documentation
 None
 
-###### Versioning
+## Versioning
 This project is always improving -- hopefully :)
