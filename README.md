@@ -1,7 +1,13 @@
 # Hello-World
 My first repository
-## First Heading
-### Second Heading
-**Let's try bold**
+## Table of Contents
 
-*Let's try italics*
+- [Hello World](#hello-world)
+- [Description](#description)
+- [How to Run Program](#how-to-run-program)
+- [Files Used](#files-used)
+- [Additional Documentation](#additional-documentation)
+- [Versioning](#versioning)
+
+## Project Title
+*Hello World*
